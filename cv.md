@@ -1,5 +1,6 @@
 # Junior Frontend Developer
-## Korneyeva-Knop Katerina  36 лет
+## Korneyeva-Knop Katerina 
+ 36 лет
 
 kk.focxom@gmail.com
 ### Latvia, Riga
@@ -9,3 +10,4 @@ kk.focxom@gmail.com
 Цели: стать программистом
 Опыт: 15 лет
 Цитата: В резюме удали вообще все. Написала только - Толковая девка! 
+Мечта: жить у моря в большом доме
